@@ -1,0 +1,23 @@
+table {
+			width: 85%;
+			border-collapse: collapse;
+			border: 2px solid black;
+			margin:auto;
+			margin-top:15%;
+			background-color:#E6E2AF ;
+			margin-top:100px;
+}
+caption{		background-color:#002F2F;
+			color:white;
+}
+
+th,td{
+			border:2px solid black;
+			text-align:center;			
+}
+th{			height:40;
+			font-size:20;
+			background-color:#046380;
+			color:white;
+}
+tr:hover {background-color:#C03000;color:white;}

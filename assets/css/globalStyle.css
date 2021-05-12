@@ -1,0 +1,98 @@
+h1,h2,h3,h4,h5{
+				text-align:center;
+}
+header{			
+				background-color:#046380;		
+				color:white;
+				height:20px;
+}
+#global{
+				width:96%;
+				margin:auto;
+				background-color:#E6E6FA;
+				height:1000px;
+}
+#divok{			padding-top:5%;
+				width:50%;
+				margin:auto;
+				color:green;
+				font-size:80px;
+				text-align:center;
+}
+#divko{			padding-top:5%;
+				width:50%;
+				margin:auto;
+				color:red;
+				font-size:80px;
+				text-align:center;
+}
+body{			background-color:#A4A4A4;
+}
+h1{				background-color:#7FC6BC;
+				color:#C03000;
+}
+h2{				font-size: 25px;
+				color: #8c910b;
+}
+h4{				font-size: 30px;
+				color: red;
+}
+form{			border: none;
+				background-color:#1C1C1C;
+				width:40%;
+				margin:auto;
+				border-radius:20px;  
+				color:white;
+				text-shadow: 0px -1px 0px #000;
+				font-family: Helvetica, Arial, sans-serif; 
+				font-size: 15px;
+				font-weight:bold;
+}				
+input[type=text],input[type=number]{	
+				border-radius:30px;
+				margin: 0px 10px 10px 10px;
+				display:inline-block;
+				width:50%;				
+}
+input[type=submit], input[type=reset] ,#unique{
+				background-color: #8c910b;
+				border: none;
+				color: white;
+				padding: 16px 32px;
+				text-decoration: none;
+				margin: 10px 0px;
+				cursor: pointer;	
+				border-radius:20px;	
+				width:45%;				
+}
+input[type=button]{
+				width:70%;
+				background-color:#002F2F;
+				color:white;
+				cursor: pointer;
+				padding: 16px 32px;
+				font-size:20px;
+}
+strong {
+				  display:block;
+				  float:left;
+				  text-align:rigth;
+				  padding:0 50px 0 0;
+				  width:150px;
+				 
+}
+fieldset {
+				padding: 20px;
+				text-align:center;
+      }
+.universite{
+				background-image: url("images/institut.jpg");
+				}
+a{				
+				font-size:50px;
+				display:block;
+}
+
+				
+
+			

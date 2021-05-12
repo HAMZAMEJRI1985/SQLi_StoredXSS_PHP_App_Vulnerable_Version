@@ -1,0 +1,33 @@
+a{				
+					font-size:30px;
+					text-align:center;
+					text-shadow: 2px 2px black;
+					color:#2E2E2E;
+}
+img{					width:150px;
+					height:150px;
+					margin:15%;
+					padding-bottom:10px;
+					margin-bottom:10px;
+					
+}
+.universite{
+					background: url("assets/images/institut.jpg") no-repeat center fixed;
+					background-size:90% 90%;
+}
+#imgclasse{
+					display: inline;
+					float: left;
+					margin-left:25%;
+					
+}
+#lien{
+					display: inline;
+					float: left;
+					margin-left:20%;
+					
+					
+}
+.deconnexion{font-size:1000px;
+			text-align:top;
+}

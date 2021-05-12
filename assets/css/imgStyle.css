@@ -1,0 +1,40 @@
+#imgFind,#imgadd,#imghome
+{	
+					width:50;
+					height:50;
+}
+#supimg,#modifimg
+{
+					width:30;
+					height:30;
+}
+#imgadd
+	{
+					display: inline;
+					float: left;
+					margin-left:30%;
+	}
+#imgFind	
+	{
+					display: inline;
+					float: right;
+					margin-right:30%;
+	}
+#ok
+{
+					width:80;
+					height:80;
+}
+#ko
+{
+					width:80;
+					height:80;
+}
+#imginstitut{
+	width:80;
+					height:80;
+}
+#imgclasse{			width:80px;
+					height:80px;
+}
+		
